@@ -1,0 +1,38 @@
+.red{
+	background-color: red;
+	color: yellow;
+	width: 24%;
+	padding-top: 0px;
+	padding-bottom: 15%;
+}
+
+.black{
+	background-color: black;
+	color: white;
+	width: 24%;
+	padding-bottom: 15%;
+}
+
+#uno{
+	position: absolute;
+}
+
+#dos{
+	position: absolute;
+	margin-left: 25%;
+}
+
+#tres{
+	position: absolute;
+	margin-left: 50%;
+}
+
+#cuatro{
+	position: absolute;
+	margin-left: 75%;
+}
+
+p{
+	font-size: 50px;
+	margin-top: 1px;
+}
